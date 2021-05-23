@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Plugin Name:       WPBakery Font Awesome Pro 🧁
  * Plugin URI:        https://github.com/Velpeo/wpbakery-font-awesome-pro
