@@ -2,7 +2,7 @@
  * Plugin Name:       WPBakery Font Awesome Pro 🧁
  * Plugin URI:        https://github.com/Velpeo/wpbakery-font-awesome-pro
  * Description:       Handle the additional code needed to go pro
- * Version:           4.1.7
+ * Version:           4.1.8
  * Requires at least: 5.4
  * Requires PHP:      7.2
  * Author:            Bradford Knowlton
